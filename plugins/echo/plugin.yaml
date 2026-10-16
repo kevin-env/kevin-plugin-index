@@ -1,0 +1,9 @@
+name: echo
+summary: an example plugin that prints a message
+homepage: https://kevin-env.dev
+maintainer: Justen Walker
+signers:
+  - scheme: minisign
+    key: |
+      untrusted comment: minisign public key 281192B728CAA465
+      RWRlpMoot5IRKHh8790aOCaeHD92str2cdC+XOslpbhhntTzcSjITgGH
