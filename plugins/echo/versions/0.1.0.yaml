@@ -1,0 +1,5 @@
+version: 0.1.0
+source:
+  oci: ghcr.io/kevin-env/kevin/plugin-echo:0.1.0
+  signing:
+    scheme: minisign
